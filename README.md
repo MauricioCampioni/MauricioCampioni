@@ -12,7 +12,8 @@ I am a second year computer engineering student. I am expanding my knowledge in 
 - Outside tech, ⚽ I love to play football, 🎵 listening to music, 🎮 playing videogames , and 🏋️‍♂️ going to the gym.
 - 📫 Reach out to me at: <a href="mauriciocampioni8@gmail.com">mauriciocampioni8@gmail.com</a>
 
-## My Skills Include
+
+<h2>My Skills Include</h2>
 
 <h4> Languages </h4>
 <span> 
@@ -33,3 +34,10 @@ I am a second year computer engineering student. I am expanding my knowledge in 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   
 </span>
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=mauriciocampioni&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mauriciocampioni)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mauriciocampioni&theme=material-palenight)](https://github.com/mauriciocampioni)
+</div>
