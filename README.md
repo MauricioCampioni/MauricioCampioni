@@ -7,7 +7,7 @@ I am a second year computer engineering student. I am expanding my knowledge in 
 
 - 🌱 I’m currently learning ...
 - Node.js
-- 👯 I’m looking forward to collaborate on open source projects.
+- I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help.
 - Outside tech, ⚽ I love to play football, 🎵 listening to music, 🎮 playing videogames , and 🏋️‍♂️ going to the gym.
 - 📫 Reach out to me at: <a href="mauriciocampioni8@gmail.com">mauriciocampioni8@gmail.com</a>
