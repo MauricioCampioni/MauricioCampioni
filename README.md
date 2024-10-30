@@ -3,7 +3,7 @@
 
 ***About me***
 
-I am a second year computer engineering student. I am expanding my knowledge in development, both front-end and back-end. I love to learn and build something new, productive, innovative and creative.
+I am a second year computer engineering student. I am expanding my knowledge in development, both front-end and back-end. Always learning and build something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
 - Node.js
